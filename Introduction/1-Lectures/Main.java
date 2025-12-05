@@ -1,4 +1,3 @@
-package de.tum.cit.aet;
 
 /**
  * Main class for testing the Lecture implementation.
@@ -18,4 +17,5 @@ public class Main {
         lecture1.addGuestStudents(50);
         System.out.println(lecture1.getNumberOfStudentsPerTutor());
     }
+
 }
