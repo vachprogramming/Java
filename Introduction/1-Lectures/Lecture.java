@@ -1,4 +1,3 @@
-package de.tum.cit.aet;
 
 /**
  * This class represents a lecture with various attributes and methods.
@@ -175,3 +174,4 @@ public class Lecture {
         this.numberOfGuestStudents += numberOfNewGuestStudents;
     }
 }
+
